@@ -15,3 +15,4 @@ certain average waiting time for customers?
 
 The project incorporates many techniques learned in the course Mathematical Simulation and is used to tie the gained knowledge together and to gain practice with simulating a complex system. The project also requires meaningful and statistically coherent data analysis on the output of the simulated system in order to reach a conclusion about, for example, whether one system configuration is significantly better in respect to an output variable than another.
 
+[Report](https://github.com/Eslsamu/Telco_Simulation/blob/master/Telco_Simulation_Report(1).pdf)
